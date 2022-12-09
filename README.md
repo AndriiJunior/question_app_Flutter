@@ -1,6 +1,6 @@
 # question_app
 
-It's a quiz app, I use API & json to show questions for user and check if it true or falseand. There I use custom fonts.
+It's a quiz app, I use API & json to show questions for user and check if it true or false. There I use custom fonts.
 App opens in the same way on both platform(IOS and Android)!
 
 
