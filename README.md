@@ -19,11 +19,15 @@ Game Page.
 This page contain Question from json, and 2 buttons. After press any button you will see a alert that the answer is correct or not,after 2 seconds app show you next question.
 
 
+![Снимок экрана 2022-12-09 в 13 42 43](https://user-images.githubusercontent.com/32870399/206700059-19e2219b-d646-4e31-b736-86ae5efac812.png)
+
+
 
 
 https://user-images.githubusercontent.com/32870399/206699408-904fd1d2-4722-4c3f-a698-b4e07a25c22a.mov
 
 
+![Untitled](https://user-images.githubusercontent.com/32870399/206700375-2fcb5eb2-1b1f-44ee-a5f3-6fe7ed6c037b.gif)
 
 
 
