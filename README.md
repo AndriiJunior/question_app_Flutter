@@ -24,8 +24,6 @@ This page contain Question from json, and 2 buttons. After press any button you 
 
 
 
-https://user-images.githubusercontent.com/32870399/206699408-904fd1d2-4722-4c3f-a698-b4e07a25c22a.mov
-
 
 ![Untitled](https://user-images.githubusercontent.com/32870399/206700375-2fcb5eb2-1b1f-44ee-a5f3-6fe7ed6c037b.gif)
 
